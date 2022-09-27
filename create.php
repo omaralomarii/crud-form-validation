@@ -1,5 +1,5 @@
 <?php
-require_once'./conn.php';
+require_once './conn.php';
 $sql = 'SELECT * FROM signup';
 
 // $getData = $conn->query($sql);
